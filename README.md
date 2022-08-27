@@ -2,4 +2,4 @@
 - 👀 I’m interested in evolve my networking and exchange ideas and experiences to improve ties and skills.
 - 🌱 I’m currently learning Java, C/C++, SQL and Robot Framework.
 - 💞️ I’m looking to collaborate on projects involving java and C/C++ development.
-- 📫 How to reach me: andsoars2001@gmail.com
+- 📫 How to reach me: andsoares2001@gmail.com
