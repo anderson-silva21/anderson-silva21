@@ -1,5 +1,34 @@
-- 👋 Hi, I’m @anderson-silva21.
-- 👀 I’m interested in evolve my networking and exchange ideas and experiences to improve ties and skills.
-- 🌱 I’m currently learning React, Java, TypeScript, Python, C/C++, SQL, Postgresql and Robot Framework.
-- 💞️ I’m looking to collaborate on projects involving React, Nest, java and C/C++ development.
-- 📫 How to reach me: andsoares2001@gmail.com
+### Olá! Eu sou o Anderson 💻
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-silva21&show_icons=true&theme=tokyonight)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-silva21&layout=compact&theme=tokyonight)](https://github.com/anderson-silva21/github-readme-stats)
+##
+
+- 🌱 Curso engenharia de computação 
+- 💬 Interessado em trabalhar em projetos que causem impactos significativos e positivos 
+- 💼 Diretor comercial na empresa junior Therion
+- 👨‍💻 Estagiário em desenvolvimento nas Lojas Quero Quero
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Anderson-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Anderson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Anderson-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Anderson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
+  <img align="center" alt="Anderson-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img align="center" alt="Anderson-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
+  <img align="center" alt="Anderson-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />  
+</div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/marii_grs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andsoares2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.https://www.linkedin.com/in/anderson-silva-0674ba186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://therionej.com.br/" target="_blank"><img src="https://github.com/marianagoncalvesrodrigues/marianagoncalvesrodrigues/blob/main/therionicon.png" 
+height="26px" width="100px" target="_blank"></a> 
+</div>
