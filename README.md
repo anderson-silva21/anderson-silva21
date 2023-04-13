@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Anderson 💻
-![Snake animation](https://github.com/anderson-silva21/anderson-silva21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anderson-silva21/anderson-silva21/blob/output/github-contribution-grid-snake.svg&theme=dracula)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-silva21&show_icons=true&theme=dracula)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-silva21&layout=compact&theme=dracula)](https://github.com/anderson-silva21/github-readme-stats)
