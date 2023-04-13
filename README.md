@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Anderson 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-silva21&show_icons=true&theme=tokyonight)
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-silva21&layout=compact&theme=tokyonight)](https://github.com/anderson-silva21/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-silva21&show_icons=true&theme=dracula)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-silva21&layout=compact&theme=dracula)](https://github.com/anderson-silva21/github-readme-stats)
 ##
 
 - 🌱 Curso engenharia de computação 
