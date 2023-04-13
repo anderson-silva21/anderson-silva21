@@ -1,4 +1,4 @@
-### Olá! Eu sou o Anderson 💻
+### Olá! Eu sou o Anderson! 💻
 ![Snake animation](https://github.com/anderson-silva21/anderson-silva21/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-silva21&show_icons=true&theme=dracula)
