@@ -36,7 +36,8 @@
   <a href="https://www.instagram.com/andsu_s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andsoares2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-silva-0674ba186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="anderson-silva-0674ba186" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/anderson-silva-0674ba186?trk=profile-badge">Anderson Silva</a></div>
+              
   <a href="https://therionej.com.br/" target="_blank"><img src="https://github.com/marianagoncalvesrodrigues/marianagoncalvesrodrigues/blob/main/therion22.png" 
 height="26px" width="100px" target="_blank"></a> 
 </div>
