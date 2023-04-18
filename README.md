@@ -1,7 +1,7 @@
 ### Hello! I am Anderson! 💻
 ![Snake animation](https://github.com/anderson-silva21/anderson-silva21/blob/output/github-contribution-grid-snake.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-silva21&show_icons=true&theme=radical)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anderson-silva21&show_icons=true&theme=radical)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-silva21&layout=compact&theme=radical)](https://github.com/anderson-silva21/github-readme-stats)
 ##
 
