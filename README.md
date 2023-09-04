@@ -3,7 +3,7 @@
 [![TopLangs ](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-silva21&layout=compact&theme=radical&hide_progress=true)](https://github.com/anderson-silva21/github-readme-stats)
 ##
 
-- 🌱 Studying Computer Engineering
+- 🌱 Computer Engineering
 - 💬 Interested in working on projects that cause significant and positive impacts
 - 👨‍💻 Development Intern at VerdeCard
 
