@@ -1,5 +1,4 @@
 ### Hello! I am Anderson! 💻
-[![TopLangs ](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-silva21&layout=compact&theme=radical&hide_progress=true)](https://github.com/anderson-silva21/github-readme-stats)
 ##
 
 - 🌱 Computer Engineering
@@ -16,7 +15,6 @@
   <img align="center" alt="Anderson-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Anderson-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Anderson-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />   
-  <img align="center" alt="Anderson-Nest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Anderson-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Anderson-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anderson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
