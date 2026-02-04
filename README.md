@@ -1,4 +1,4 @@
-### Anderson Silva | Senior Software Engineer 👨‍💻🚀  
+### Anderson Silva | Software Engineer 👨‍💻🚀  
 ##
 
 - 💼 Software Engineer at **INPE** – Contributor to the **EMBRACE Space Weather Project**, developing and maintaining scientific data processing systems used in space research  
