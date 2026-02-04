@@ -1,5 +1,4 @@
 ### Hello! I am Anderson! 💻
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anderson-silva21&show_icons=true&theme=radical)
 [![TopLangs ](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-silva21&layout=compact&theme=radical&hide_progress=true)](https://github.com/anderson-silva21/github-readme-stats)
 ##
 
