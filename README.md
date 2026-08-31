@@ -96,8 +96,4 @@ Building reliable backend services, APIs, integrations and data-intensive system
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/andsu_s/">
-  <img src="https://img.shields.io/badge/Instagram-@andsu__s-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 </div>
