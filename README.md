@@ -8,11 +8,30 @@ Building reliable backend services, APIs, integrations and data-intensive system
 
 <br>
 
-<img src="https://img.shields.io/badge/Software%20Engineer-WEX-0066FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Engineer-WEX-ff1100?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white" />
 
 </div>
+
+---
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/anderson-silva21/anderson-silva21/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/anderson-silva21/anderson-silva21/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/anderson-silva21/anderson-silva21/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 ---
 
@@ -64,27 +83,6 @@ Building reliable backend services, APIs, integrations and data-intensive system
 ### Also working with
 
 `Spring Boot` · `Spring Security` · `OAuth2` · `OIDC` · `JWT` · `REST APIs` · `Microservices` · `SQL` · `GitHub Actions`
-
----
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/anderson-silva21/anderson-silva21/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/anderson-silva21/anderson-silva21/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/anderson-silva21/anderson-silva21/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
 
 ## 🤝 Connect with Me
 
